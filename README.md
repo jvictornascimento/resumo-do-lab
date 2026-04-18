@@ -14,7 +14,9 @@ resumo: tudo que for de maquina física que eu adiquirir
 - Seja cobrado imediatamente.
 resumo: tudo de logico que eu provisionar e instanciar.
 
-## Cloud Pública
+## Cloud 
+
+### Pública
 - Infraestrutura pertence a um provedor externo
 - Ex: AWS, Google Cloud, Microsoft Azure
 - Vários clientes compartilham os recursos (multi-tenant)
@@ -22,16 +24,14 @@ resumo: tudo de logico que eu provisionar e instanciar.
 - Menos controle direto
 resumo: Use quando: quer rapidez, baixo custo e não quer gerenciar servidor
 
-### Cloud Privada
-
+### Privada
 - Infraestrutura exclusiva de uma empresa
 - Pode ser local (on-premise) ou hospedada
 - Mais segurança e controle
 - Mais caro e complexo
 resumo: Use quando: precisa de alta segurança, compliance ou dados sensíveis
 
-### Cloud Híbrida
-
+### Híbrida
 - Mistura cloud pública + privada
 - Permite distribuir cargas (ex: dados sensíveis privado, app público)
 - Equilíbrio entre custo e controle
